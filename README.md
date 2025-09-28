@@ -1,6 +1,4 @@
 # mini-project1
-Muhammad Rizky Alfa Reza Basyah
-
-2509116086
-
-Sistem Informasi C
+Muhammad Rizky Alfa Reza Basyah <br>
+2509116086 <br>
+Sistem Informasi C <br>
