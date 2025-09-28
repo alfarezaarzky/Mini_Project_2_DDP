@@ -1,2 +1,3 @@
 # mini-project1
-Muhammad Rizky Alfa Reza 
+Muhammad Rizky Alfa Reza Basyah
+
